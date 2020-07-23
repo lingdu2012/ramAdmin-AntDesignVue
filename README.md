@@ -1,29 +1,15 @@
-# test-form
+# ramAdmin-AntDesignVue
 
-## Project setup
+## 这是一个后台管理系统框架
 ```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
+npm install  安装依赖
+npm run serve  运行项目
 ```
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+我也不知道为啥写这个东西。
 
-### Run your tests
-```
-yarn run test
-```
+其实是东拼西凑的一个产物。
 
-### Lints and fixes files
-```
-yarn run lint
-```
+可以实际很方便的使用。
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+我想应该可以的。
